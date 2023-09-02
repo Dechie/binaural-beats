@@ -1,17 +1,7 @@
-# binaural
+# binaural beats
 
-A new Flutter project.
+A flutter app for playing binaural beats. Binaural beats are sound waves of slightly different frequencies played 
+to the two ears. This helps the brain stay more focused. The app is designed to work only when earphones are plugged.
 
-## Getting Started
+this app was inspired by Andrew Huberman's video.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# binaural-beats
