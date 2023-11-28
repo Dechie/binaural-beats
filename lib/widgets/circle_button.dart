@@ -11,7 +11,6 @@ class CircleButton extends StatelessWidget {
     double? dimension = MediaQuery.of(context).size.width * 0.65;
     return Center(
       child: Card(
-        //color: const Color.fromARGB(255, 189, 189, 189),
         color: const Color(0xFF1F1F1F),
         shape: const CircleBorder(),
         elevation: 10,
